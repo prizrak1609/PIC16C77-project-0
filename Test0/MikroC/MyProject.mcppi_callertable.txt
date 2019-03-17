@@ -1,0 +1,9 @@
+main
+	__CC2DW
+		____DoICP
+	init_timer0
+	all
+	snake
+interrupt
+	Button
+		Delay_500us
